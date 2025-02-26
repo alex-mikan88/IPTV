@@ -50,6 +50,7 @@ url_blacklist = [
     "[2409:8087:2001:20:2800:0:df6e:eb27]"
 ]
 
+/*
 announcements = [
     {
         "channel": "公告",
@@ -61,6 +62,7 @@ announcements = [
         ]
     }
 ]
+*/
 
 epg_urls = [
     "https://live.fanmingming.com/e.xml",
