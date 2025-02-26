@@ -50,19 +50,19 @@ url_blacklist = [
     "[2409:8087:2001:20:2800:0:df6e:eb27]"
 ]
 
-/*
+
 announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "请阅读", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "yuanzl77.github.io", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "更新日期", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "请阅读", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "https://raw.githubusercontent.com/alex-mikan88/alex-mikan88/refs/heads/main/img/avatar/cvbox.org.notion-avatar-1685296578885.png"},
+            {"name": "IPTV", "url": "https://github.com/alex-mikan88/IPTV", "logo": "https://raw.githubusercontent.com/alex-mikan88/alex-mikan88/refs/heads/main/img/avatar/cvbox.org.notion-avatar-1685296578885.png"},
+            {"name": "更新日期", "url": "github.com/alex-mikan88/IPTV", "logo": "https://raw.githubusercontent.com/alex-mikan88/alex-mikan88/refs/heads/main/img/avatar/cvbox.org.notion-avatar-1685296578885.png"},
+            {"name": None, "url": "github.com/alex-mikan88/IPTV", "logo": "https://raw.githubusercontent.com/alex-mikan88/alex-mikan88/refs/heads/main/img/avatar/cvbox.org.notion-avatar-1685296578885.png"}
         ]
     }
 ]
-*/
+
 
 epg_urls = [
     "https://live.fanmingming.com/e.xml",
